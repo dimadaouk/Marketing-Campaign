@@ -1,7 +1,7 @@
 # Importing libraries
 import pandas as pd
 import numpy as np
-from st_aggrid import AgGrid
+#from st_aggrid import AgGrid
 
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.datasets import make_classification
